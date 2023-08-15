@@ -11,6 +11,26 @@
     {
       "source": "/url",
       "destination": "https://www.urlxcode.com"
+    },
+    {
+      "source": "elesubsidy",
+      "destination": "https://qf.jfshou.cn/unions//link/QupNY3nxTVwoUGXc7oZvXIhBoBV7ez"
+    },
+    {
+      "source": "/elepacket",
+      "destination": "https://qf.jfshou.cn/unions//link/isqdFE3ijaVvYkkMctn18AWmSKaA84"
+    },
+    {
+      "source": "/mstand",
+      "destination": "https://qf.jfshou.cn/unions//link/ExSjdjU34HwjKxGkZ50Z5fswQTusoF"
+    },
+    {
+      "source": "/mtpacket",
+      "destination": "https://qf.jfshou.cn/unions//link/4wTI19GQbvGqcVkgztbtPKuqK72O8L"
+    },
+    {
+      "source": "/starbucks",
+      "destination": "https://qf.jfshou.cn/unions//link/kIAPRIjeGLDTcvtt1Dol3GjYt3VZPw"
     }
   ]
 }
