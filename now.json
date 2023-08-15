@@ -11,6 +11,10 @@
     {
       "source": "/url",
       "destination": "https://www.urlxcode.com"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "https://rok.ink"
     }
   ]
 }
