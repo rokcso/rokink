@@ -11,10 +11,6 @@
     {
       "source": "/url",
       "destination": "https://www.urlxcode.com"
-    },
-    {
-      "source": "/(.*)",
-      "destination": "https://blog.waringhu.com"
     }
   ]
 }
