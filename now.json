@@ -1,16 +1,24 @@
 {
   "redirects": [
     {
-      "source": "/github",
-      "destination": "https://github.com/waringhu"
+      "source": "/jike",
+      "destination": "https://okjk.co/RqK5zW"
     },
     {
       "source": "/twitter",
       "destination": "https://twitter.com/rokcso"
     },
     {
+      "source": "/github",
+      "destination": "https://github.com/waringhu"
+    },
+    {
       "source": "/url",
       "destination": "https://www.urlxcode.com"
+    },
+    {
+      "source": "/pansou",
+      "destination": "https://www.pansou.vip/"
     },
     {
       "source": "/elesubsidy",
