@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/rokcso",
+      "destination": "https://www.rokcso.com/"
+    },
+    {
       "source": "/jike",
       "destination": "https://okjk.co/RqK5zW"
     },
